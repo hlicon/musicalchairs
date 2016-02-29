@@ -212,7 +212,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Extreme Musical Chairs BUM BUM BUM!
+  m_Text: 'Extreme Musical Chairs BUM BUM BUM!
+
+'
 --- !u!222 &816331455
 CanvasRenderer:
   m_ObjectHideFlags: 0
